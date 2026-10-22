@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 352a8a81e99aed54b889a8020f682449
+timeCreated: 1551350601
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106014
+  packageName: 'Robot Hero : Modular HP'
+  packageVersion: 1.4
+  assetPath: Assets/SciFiHeroHP/Prefabs/Shotgun04.prefab
+  uploadId: 466477

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 18446f805dd6f2f4d9944077c6a35af9
+timeCreated: 1551352199
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106014
+  packageName: 'Robot Hero : Modular HP'
+  packageVersion: 1.4
+  assetPath: Assets/SciFiHeroHP/Scene/AllTogether.unity
+  uploadId: 466477

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3bbc8b5858a7cdc4c88fb4f381348068
+timeCreated: 1551322845
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106014
+  packageName: 'Robot Hero : Modular HP'
+  packageVersion: 1.4
+  assetPath: Assets/SciFiHeroHP/Scene/ShotgunTeam.unity
+  uploadId: 466477

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6bf7a06141e81e04a94407b3d7bd5104
+timeCreated: 1551322405
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106014
+  packageName: 'Robot Hero : Modular HP'
+  packageVersion: 1.4
+  assetPath: Assets/SciFiHeroHP/Prefabs/SniperRifle04.prefab
+  uploadId: 466477

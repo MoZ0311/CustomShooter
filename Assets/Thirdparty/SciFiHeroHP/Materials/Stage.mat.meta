@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 32fe06d94f4b998469f28d94e3a2cd03
+timeCreated: 1512976969
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106014
+  packageName: 'Robot Hero : Modular HP'
+  packageVersion: 1.4
+  assetPath: Assets/SciFiHeroHP/Materials/Stage.mat
+  uploadId: 466477

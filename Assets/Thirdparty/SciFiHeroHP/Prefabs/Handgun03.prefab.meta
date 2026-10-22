@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e3f77f08d0406f7439f29b50aac837d4
+timeCreated: 1551351916
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106014
+  packageName: 'Robot Hero : Modular HP'
+  packageVersion: 1.4
+  assetPath: Assets/SciFiHeroHP/Prefabs/Handgun03.prefab
+  uploadId: 466477

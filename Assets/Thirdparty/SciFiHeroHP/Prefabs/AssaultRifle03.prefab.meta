@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6ddcc370cd4e4f1409ed5f1e29d69e4c
+timeCreated: 1551321599
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106014
+  packageName: 'Robot Hero : Modular HP'
+  packageVersion: 1.4
+  assetPath: Assets/SciFiHeroHP/Prefabs/AssaultRifle03.prefab
+  uploadId: 466477

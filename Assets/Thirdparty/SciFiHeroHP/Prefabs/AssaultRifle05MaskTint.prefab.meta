@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 683be9aff921075468199441ef25d597
+timeCreated: 1551445422
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106014
+  packageName: 'Robot Hero : Modular HP'
+  packageVersion: 1.4
+  assetPath: Assets/SciFiHeroHP/Prefabs/AssaultRifle05MaskTint.prefab
+  uploadId: 466477
